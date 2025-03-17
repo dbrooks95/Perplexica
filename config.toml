@@ -21,7 +21,7 @@ API_URL = ""
 MODEL_NAME = ""
 
 [MODELS.OLLAMA]
-API_URL = "" # Ollama API URL - http://host.docker.internal:11434
+API_URL = "" # Ollama API URL - http://192.168.22.39:11434
 
 [API_ENDPOINTS]
 SEARXNG = "http://localhost:32768" # SearxNG API URL
